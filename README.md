@@ -83,4 +83,4 @@ npm i jest
 
 ## Links
 Github Repo : https://github.com/ceewizz/MVC.TechBlog
-Deployed Links: 
+Deployed Links:   https://mvctechbl0g-8ba974d8eca3.herokuapp.com/
