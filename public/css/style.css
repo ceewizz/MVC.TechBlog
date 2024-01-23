@@ -1,7 +1,7 @@
 /* General page styles */
 
-header {
-  font-family: "Jomolhari", serif;
+header {font-family: "Gill Sans Extrabold", sans-serif;
+  
 }
 
 body {
@@ -10,18 +10,18 @@ body {
 
 h1 {
   font-family: "Jomolhari", serif;
-  background-color: teal;
-  color: #ffb3c6;
+  background-color: navy;
+  color: whitesmoke;
   padding: 16px;
   margin-bottom: 5px;
 }
 
 #blogName {
-  color: #ffe5ec;
+  color: green;
 }
 
 main {
-  font-family: "Jomolhari", serif;
+  font-family: "Goudy Bookletter 1911", sans-serif;
   margin-top: -5px;
   background-color: #a28089;
 }
@@ -31,7 +31,7 @@ main {
 }
 
 .user-name {
-  background-color: #84a59d;
+  background-color: purple;
 }
 
 .blogPost-main {
@@ -41,11 +41,11 @@ main {
 /* Nav styles */
 
 .navBar {
-  background-color: #00a0a0;
+  background-color: lime;
 }
 
 #logout {
-  background-color: #84a59d;
+  background-color: limegreen;
 }
 
 /* Input/textarea styles */
@@ -58,27 +58,27 @@ main {
 #name-signup,
 #email-signup,
 #password-signup {
-  background-color: #e5eaf5;
+  background-color: silver;
 }
 
 /* Button styles */
 
 .btn {
-  background-color: #ffb3c6;
+  background-color: red;
 }
 
 /* Card styles */
 
 .card-header {
-  background-color: #e5eaf5;
+  background-color: white;
 }
 
 .card-body {
-  background-color: #ffe5ec;
+  background-color: pink;
 }
 
 .card {
-  background-color: #ffe5ec;
+  background-color: lightpink;
 }
 
 .card:hover {

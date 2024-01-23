@@ -1,4 +1,4 @@
-// Function set up so users can create new blog posts
+
 async function newPostHandler(event) {
   event.preventDefault();
 
@@ -25,7 +25,7 @@ async function newPostHandler(event) {
   }
 }
 
-// Event Listener
+
 document
   .querySelector(".createBlogPost")
   .addEventListener("submit", newPostHandler);
